@@ -91,7 +91,6 @@ elif(choice=='About'):
     expander=st.expander('Group Members For the Project')
     expander.markdown("""
         **Alinjar Das**\n
-        **Abhijeet Padhi**\n
         **Sidharth Kumar Choudhary**\n
         **Amit Prakash**\n
         **Mayank Sinha**\n
