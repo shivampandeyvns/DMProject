@@ -20,12 +20,10 @@ The Dataset contained 160 positive images and 90 negative images according to th
 
 Dataset link-> https://www.kaggle.com/akshitmadan/tumor-classification-using-keras-for-beginners/data
 ## Tools
-![Python](https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png)
-
-![Streamlit](https://github.com/shivampandeyvns/365-data-science/blob/main/Screenshot%202021-12-24%20134616.png?raw=true)
-![Github](https://cdn.iconscout.com/icon/free/png-64/github-1521500-1288242.png)
-![Jupyter](https://github.com/shivampandeyvns/365-data-science/blob/main/Screenshot%202021-12-24%20134353.png?raw=true)
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ## Working of the CNN model
 
